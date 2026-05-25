@@ -88,9 +88,9 @@ function App() {
                 }
               />
 
-              <h3>
+              <h2>
                 {country.common}
-              </h3>
+              </h2>
 
             </div>
           )
